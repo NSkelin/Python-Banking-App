@@ -7,18 +7,17 @@ This program was made for the final project of my software design course. This p
 
 The ATM GUI was mainly designed for users of the atm. the design emulates a typical ATM with giant buttons and similar options.
 The ATM GUI is what users would use to do typical transactions such as deposit/withdrawel of money.
-![](link-to-image)
-
-
+![](https://github.com/NSkelin/Python-Banking-App/blob/master/bank%20gui.PNG)
 
 **ATM CLI**
 
 The ATM CLI was designed for admins of the bank. This allows admins to do basic user account management tasks such as creating and editing accounts.
-![](link-to-image)
+![](https://github.com/NSkelin/Python-Banking-App/blob/master/bank%20cli.PNG)
 
 
 **Product Usage**
-To launch the ATM GUI use the "atm_controller.exe" located inside dist/atm_controller. To login with a test account use the card number "1111" and the pin number "123".
-To launch the ATM CLI use the "cli_controller" located inside dist/cli_controller.
+
+To launch the ATM GUI use the "atm_controller.exe" located inside executables/dist/atm_controller. To login with a test account use the card number "1111" and the pin number "123".
+To launch the ATM CLI use the "cli_controller" located inside executables/dist/cli_controller.
 
 Note - Due to time constraints certain functionality such as the QR button were never finished.
