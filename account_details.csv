@@ -1,0 +1,5 @@
+card_num,pin,firstName,lastName,balance
+1111,123,Test,User,231784.39
+1.23457E+15,1234,Billy,Bob,100050000
+1.23457E+15,1234,me,you,0
+1.23457E+15,1234,me,yuu,0
